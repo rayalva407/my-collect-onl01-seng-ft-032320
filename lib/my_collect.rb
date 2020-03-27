@@ -1,3 +1,1 @@
-
-
-bu
+def my_collect(collection)
