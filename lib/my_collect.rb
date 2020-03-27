@@ -3,5 +3,6 @@ def my_collect(array)
   collection = []
   while i < array.length
     coollection << yield(array[i])
+    i += 1
   end
 end
